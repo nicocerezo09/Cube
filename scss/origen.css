@@ -1,0 +1,55 @@
+/*BEM*/
+.gris {
+  background-color: #DCDCDC;
+}
+
+.gris--fondo {
+  background-color: #000000;
+}
+
+.gris--fondo__precio {
+  color: #FFD700;
+}
+
+.footer {
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+.footer--p {
+  color: #FFD700;
+}
+
+.footer--p__a {
+  color: white;
+}
+
+.info {
+  background-color: black;
+}
+
+.info--h5 {
+  color: #FFD700;
+}
+
+.info--h5__h2 {
+  color: white;
+}
+
+.formulario {
+  background-color: black;
+}
+
+.formulario--h5 {
+  color: #FFD700;
+}
+
+.formulario--h5__h2 {
+  color: white;
+}
+
+/*OPERACIONES*/
+.aviso {
+  height: 24;
+}
+/*# sourceMappingURL=origen.css.map */

@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.margin{
+    margin: 0%;
+}
+a{
+    text-decoration: none;
+    outline: none;
+    color: black;
+}
+a:link, a:visited, a:focus {
+    color: black;
+}
+li{
+    list-style-type: none;
+}
+

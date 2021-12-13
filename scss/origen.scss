@@ -1,0 +1,49 @@
+/*BEM*/
+$dorado: #FFD700;
+.gris{
+    background-color: #DCDCDC;
+}
+.gris--fondo{
+    background-color: #000000;
+}
+.gris--fondo__precio{
+    color: $dorado;
+}
+.footer{
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+.footer--p{
+    color: $dorado;
+}
+.footer--p__a{
+    color: white;
+}
+.info{
+    background-color: black;
+}
+.info--h5{
+    color: $dorado;
+}
+.info--h5__h2{
+    color: white;
+}
+.formulario{
+    background-color: black;
+}
+.formulario--h5{
+    color: $dorado;
+}
+.formulario--h5__h2{
+    color: white;
+}
+/*OPERACIONES*/
+$ancho: 648;
+$alto: 12;
+
+.aviso {
+    height: $alto*2;
+}
+.historia{
+    width: $ancho*2;
+}
